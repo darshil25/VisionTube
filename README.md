@@ -2,6 +2,9 @@
 
 Welcome to VisionTube, a video sharing platform where users can watch and search for videos uploaded by creators. This project is a simple clone of YouTube, built with React.
 
+# Link
+You can view the website here: https://visiontube.netlify.app/
+
 # Features
 -> Users can search for videos by keyword, title, creator name, or by category such as music, education, gaming, sports, fashion, beauty, and comedy.
 
