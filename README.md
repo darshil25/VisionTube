@@ -6,20 +6,20 @@ Welcome to VisionTube, a video sharing platform where users can watch and search
 You can view the website here: https://visiontube.netlify.app/
 
 # Features
--> Users can search for videos by keyword, title, creator name, or by category such as music, education, gaming, sports, fashion, beauty, and comedy.
+* Users can search for videos by keyword, title, creator name, or by category such as music, education, gaming, sports, fashion, beauty, and comedy.
 
--> Users can watch videos on the platform without the need to sign in or create an account.
+* Users can watch videos on the platform without the need to sign in or create an account.
 
--> The platform is responsive and can be accessed from different devices, including mobile phones and tablets.
+* The platform is responsive and can be accessed from different devices, including mobile phones and tablets.
 
 # Technologies
--> React
+* React
 
--> Axios
+* Axios
 
--> React Router
+* React Router
 
--> Material UI
+* Material UI
 
 ## Getting Started
 
