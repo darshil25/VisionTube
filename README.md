@@ -10,7 +10,7 @@ You can view the website here: https://visiontube.netlify.app/
 
 * Users can watch videos on the platform without the need to sign in or create an account.
 
-* The platform is responsive and can be accessed from different devices, including mobile phones and tablets.
+* The platform is responsive and can be accessed from different devices, including mobile phones and tablets
 
 # Technologies
 * React
